@@ -1,0 +1,12 @@
+# Ignore XAMPP and server files
+/vendor/
+*.log
+*.zip
+*.exe
+
+# Ignore database dumps (optional)
+*.sql
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+body{font-family:Arial;background:#eef;padding:20px}
+h2{color:navy}
+input,button{padding:5px;margin:5px}
+button{background:navy;color:white;border:none;padding:6px 10px}
+button:hover{background:darkblue}
+.flight{background:white;padding:10px;margin:10px;border-radius:8px;box-shadow:0 0 5px gray}
